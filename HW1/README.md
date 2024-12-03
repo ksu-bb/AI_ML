@@ -11,9 +11,9 @@
 
 **Результаты работы:**
 
-Babushkina_AI_HW1_Regression_with_inference_base.ipynb - ноутбук со всеми проведёнными вами экспериментами
+Babushkina_AI_HW1_Regression_with_inference_base.ipynb - ноутбук со всеми проведёнными экспериментами
 
-Report.html - сохраненный дашборд в любом формате
+Report.html - сохраненный дашборд 
 
 main.py - файл с реализацией сервиса
 
